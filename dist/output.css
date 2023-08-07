@@ -1147,20 +1147,12 @@ video {
   background-image: url('/dist/img/about-bg.png');
 }
 
-.bg-\[url\(\'\/dist\/img\/cover_Art\.png\'\)\] {
-  background-image: url('/dist/img/cover_Art.png');
-}
-
 .bg-\[url\(\'\/dist\/img\/partnership\.webp\'\)\] {
   background-image: url('/dist/img/partnership.webp');
 }
 
 .bg-\[url\(\'https\:\/\/cdx\.monstercat\.com\/\?encoding\=webp\&url\=https\%3A\%2F\%2Fcdn\.monstercat\.com\%2Fcontact\%2Fbg-contact-us\.webp\&width\=1920\'\)\] {
   background-image: url('https://cdx.monstercat.com/?encoding=webp&url=https%3A%2F%2Fcdn.monstercat.com%2Fcontact%2Fbg-contact-us.webp&width=1920');
-}
-
-.bg-\[url\(\'https\:\/\/github\.com\/kobechode\/Monstercrat\/blob\/master\/dist\/img\/cover_Art\.png\'\)\] {
-  background-image: url('https://github.com/kobechode/Monstercrat/blob/master/dist/img/cover_Art.png');
 }
 
 .bg-\[url\(\'https\:\/\/github\.com\/kobechode\/Monstercrat\/blob\/master\/dist\/img\/cover_Art\.png\?raw\=true\'\)\] {
