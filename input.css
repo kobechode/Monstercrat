@@ -1,0 +1,169 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .header__wrapper{
+
+    background: rgba(0, 0, 0, 0.7);
+} */
+
+
+
+
+.header__navigation{
+
+    padding:1.5rem 2rem;
+
+
+}
+
+ 
+
+
+ 
+
+
+.nav>ul li{
+
+    line-height: 4rem;
+ 
+}
+
+.banner{
+ 
+    
+    /* -webkit-mask-image: linear-gradient(180deg, red 70%, transparent 100%); */
+    /* background-image: linear-gradient(rgba(255, 255, 255, 0.206),transparent ); */
+
+}
+
+.text-stroke {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #F1F1F1;
+    -webkit-text-fill-color: transparent;
+}
+
+
+ 
+
+
+
+ 
+.btn-medium {
+    
+    padding: 1.6rem 1.8rem;
+    height: 25px;
+}
+ 
+.btn-stroke{
+
+    border: solid 1px #F1F1F1;
+    padding: 1.6rem 1.8rem;
+}
+
+
+ .writing{
+
+    writing-mode: vertical-rl;
+ }
+ 
+
+ .gradientbottomDark {
+    position: absolute;
+    width: 100%;
+    height: 10rem;
+    background-image: linear-gradient(transparent,black );
+    bottom: 0;
+  }
+
+   .musics>ul>li>a>i{
+ 
+  font-size: 2rem;
+   }
+  
+
+
+  
+
+
+   .text-stroke.stroke-thick {
+    -webkit-text-stroke: 2px;
+}
+ 
+
+ .lh-xsmall, .lh-xsmall > p {
+    line-height: 1.25;
+}
+
+.header-page {
+    
+    letter-spacing: 0.5em;
+    
+    
+}
+
+ 
+.pclass{
+
+   
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}  
+
+
+.image-overlay .image-overlay-tint {
+    background: rgba(0, 0, 0, 0.7);
+     
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+
+}
+
+
+ 
+
+.leftm{
+    margin-left: 28rem;
+}
+
+.panel-testimonial {
+    
+    padding: 3rem 3rem 80px;
+ 
+    
+}
+
+.tns-controls {
+
+    position: relative;
+}
+
+.tns-controls button:first-child{
+
+    position: absolute;
+    top:10rem;
+     font-size: 2rem;
+     z-index: 1;
+     left: -2rem;
+     margin-top: -3rem;
+
+}
+
+.tns-controls button:last-child{
+    font-size: 2rem;
+     position: absolute;
+     right: -2rem;
+     top: 10rem;
+     z-index: 1;
+     margin-top: -3rem;
+   
+}
+
+
+
